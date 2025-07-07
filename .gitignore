@@ -1,0 +1,10 @@
+# scripts
+*.ps1
+
+# files
+menu.png
+menu_bw.png
+jump.png
+
+#
+/*/*
